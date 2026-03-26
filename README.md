@@ -25,12 +25,11 @@ Este repositório documenta a minha jornada para me tornar um Analista de SOC (S
 
 ## 🧠 Skills Demonstrated / Competências Demonstradas
 
-* Network traffic analysis / Análise de tráfego de rede
-* Log analysis (SIEM) / Análise de logs (SIEM)
-* Threat detection / Deteção de ameaças
-* Basic incident response / Resposta a incidentes (básico)
-* Network scanning & enumeration / Varredura e enumeração de rede
-
+* [Network traffic analysis / Análise de tráfego de rede](https://github.com/lirio-sec/Network-Traffic-Analysis-Wireshark-)  
+* [Log analysis (SIEM) / Análise de logs (SIEM)](https://github.com/lirio-sec/Network-Traffic-Analysis-Wireshark-) 
+* [Threat detection / Detecção de ameaças](https://github.com/lirio-sec/Network-Traffic-Analysis-Wireshark-)  
+* [Basic incident response / Resposta a incidentes (básico)](https://github.com/lirio-sec/Network-Traffic-Analysis-Wireshark-)  
+* [Network scanning & enumeration / Varredura e enumeração de rede](https://github.com/lirio-sec/Network-Traffic-Analysis-Wireshark-)
 ---
 
 ## 🛠️ Tools & Technologies / Ferramentas e Tecnologias
