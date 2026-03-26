@@ -43,22 +43,6 @@ Este repositório documenta a minha jornada para me tornar um Analista de SOC (S
 
 ---
 
-## 📂 Repository Structure / Estrutura do Repositório
-
-```bash
-📁 projetos/
- ├── projeto-01/
- │   ├── README.md
- │   ├── evidencias/
- │   └── scripts/
- ├── projeto-02/
- │   ├── README.md
- │   ├── evidencias/
- │   └── scripts/
-```
-
----
-
 ## 🚀 Projects (in progress) / Projetos (em desenvolvimento)
 
 * [ ] Network Traffic Analysis (Wireshark) / Análise de Tráfego de Rede
